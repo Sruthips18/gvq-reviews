@@ -11,12 +11,12 @@
 				"I've tried a few places for pet grass, but GVQ's wheatgrass is the only one my cat stays obsessed with. Great quality!",
 			reviewer: 'Sarah',
 			role: 'Pet Parent',
-			rating: 4.5
+			rating: 4
 		},
 		{
 			review:
 				'Superb quality and excellent service. The subscription box is very convenient and keeps my kitchen stocked with healthy greens.',
-			reviewer: 'Meera Nair',
+			reviewer: 'Meera Kishor',
 			role: 'Health Blogger',
 			rating: 4
 		}
