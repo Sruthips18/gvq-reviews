@@ -19,12 +19,5 @@
 			reviewer: 'Meera Kishor',
 			role: 'Health Blogger',
 			rating: 4
-		},
-	 {
-			review:
-				'Superb quality and excellent service. Very healthy.',
-			reviewer: 'Sruthi',
-			role: 'Naturopathy',
-			rating: 4
 		}
 	]
