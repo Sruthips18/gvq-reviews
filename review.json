@@ -1,42 +1,32 @@
- [
-		{
-			review:
-				'I really like how GVQ Microgreens makes fresh, healthy greens so easy to bring into daily life. It’s simple, sustainable, and feels like the future of farming in the city!',
-			reviewer: 'Sai Bharath',
-			role: 'Agri Enthusiast',
-			rating: 5
-		},
-		{
-			review:
-				"Have been a subscriber for Microgreens for one month now Got GVQ Microgreens and they’re genuinely fresh and crisp — zero wilt, crazy flavor. Bonus: they send tips on how to use them, so I’m not just staring at a box of greens anymore. Finally a startup that cares if you actually use the product. 10/10.
-I will suggest this to any person who are health conscious, good product with usable tips",
-			reviewer: 'Dr Rajesh B Kaimal',
-			role: 'Orthopedist',
-			rating: 4
-		},
-		{
-			review:
-				'I’ve recently started using these microgreens…nd I’m genuinely impressed with the quality and freshness. Whether it’s salads….sandwiches….or even just as a topping they instantly elevate the dish. 
-Proud to support the product ….Highly recommend ….',
-			reviewer: 'Swetha ',
-			role: '',
-			rating: 4.5
-		},
-	 {
-			review:
-				'I’ve had a great experience with GVQ Microgreens. The quality of their microgreens is excellent—always fresh, vibrant, and full of flavor. You can really tell that they are grown with care and attention to detail.
-Incorporating their microgreens into my daily meals has been a game changer, not just in taste but also in terms of health. They add a fresh, nutritious boost to everything from salads to sandwiches.
-What I appreciate most is their consistency and reliability. Every order has been delivered fresh and on time, which makes it easy to trust their service.
-I highly recommend GVQ Microgreens to anyone looking for high-quality, fresh, and nutritious greens.',
-			reviewer: 'Prashanth ',
-			role: '',
-			rating: 5
-		},
-	 {
-			review:
-				'Superb quality and excellent service. The subscription box is very convenient and keeps my kitchen stocked with healthy greens.',
-			reviewer: 'Meera Kishor',
-			role: '```',
-			rating: 4
-		}
-	]
+[
+  {
+    "review": "I really like how GVQ Microgreens makes fresh, healthy greens so easy to bring into daily life. It’s simple, sustainable, and feels like the future of farming in the city!",
+    "reviewer": "Sai Bharath",
+    "role": "Agri Enthusiast",
+    "rating": 5
+  },
+  {
+    "review": "Have been a subscriber for Microgreens for one month now. Got GVQ Microgreens and they’re genuinely fresh and crisp — zero wilt, crazy flavor.",
+    "reviewer": "Dr Rajesh B Kaimal",
+    "role": "Orthopedist",
+    "rating": 4
+  },
+  {
+    "review": "I’ve recently started using these microgreens and I’m genuinely impressed with the quality and freshness.",
+    "reviewer": "Swetha",
+    "role": "Customer",
+    "rating": 4.5
+  },
+  {
+    "review": "I’ve had a great experience with GVQ Microgreens. The quality is excellent and always fresh.",
+    "reviewer": "Prashanth",
+    "role": "Customer",
+    "rating": 5
+  },
+  {
+    "review": "Superb quality and excellent service. The subscription box is very convenient.",
+    "reviewer": "Meera Kishor",
+    "role": "Health Blogger",
+    "rating": 4
+  }
+]
